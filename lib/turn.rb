@@ -25,6 +25,13 @@ def position_taken?(board, index)
   end
 end
 
+# get input
+# convert input to index
+# if index is valid
+#   make the move for input
+# else
+#   ask for input again until you get a valid input
+# end
 
 def turn(board)
   puts "Please choose a number 1-9:"
